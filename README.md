@@ -17,5 +17,8 @@ The image above points to the region we have our interest in e.i. we want to sca
 <img src="Images/Area_of_projection.JPG">
 And this image corresponds to the final rectangle that we want our image to fir into.
 
-<img src="Images/Final_scanned_image.JPG">
-And finally, this is our scanned image, according to the points we chose.
+<p float="left">
+   <img src="Images/sheet1.jpgg" width="200" />
+  <img src="Images/Final_scanned_image.JPG" width="200" /> 
+</p>
+And finally, this is our scanned image, according to the points we chose, along with the original image beside it.
