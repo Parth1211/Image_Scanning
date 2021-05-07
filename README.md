@@ -14,7 +14,7 @@ Finally, the third section of the code takes the recorded coordinates from the p
 <img src="Images/Area_of _interest.JPG">
 The image above points to the region we have our interest in e.i. we want to scan.
  
-<img src="Images/Area_of_projection.JPG.JPG">
+<img src="Images/Area_of_projection.JPG">
 And this image corresponds to the final rectangle that we want our image to fir into.
 
 <img src="Images/Final_scanned_image.JPG">
