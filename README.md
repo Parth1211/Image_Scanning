@@ -4,18 +4,18 @@ This is a python program to scan an image. You can select the coordinates of the
 
 So, firstly we will load the image and the program will ask us to "click" on the 4 points of the image which we want to choose as the corners of the section to be scanned.
 (During this click event, the machine records the coordinates of the point on the image where we click)
-<img src="IMAGES/Scanning1.png">
+<img src="Images/Scanning1.png">
 
 Then, we have to click on the points on the image, which we want to choose as the extreme ends of the area of projection for the scanned image.
-<img src="IMAGES/Scanning2.png">
+<img src="Images/Scanning2.png">
 
 Finally, the third section of the code takes the recorded coordinates from the previous section of the code, and then outputs our final scanned image(through the function - project_transform() )
 
-<img src="IMAGES/Area_of _interest.JPG">
+<img src="Images/Area_of _interest.JPG">
 The image above points to the region we have our interest in e.i. we want to scan.
  
-<img src="IMAGES/Area_of_projection.JPG.JPG">
+<img src="Images/Area_of_projection.JPG.JPG">
 And this image corresponds to the final rectangle that we want our image to fir into.
 
-<img src="IMAGES/Final_scanned_image.JPG">
+<img src="Images/Final_scanned_image.JPG">
 And finally, this is our scanned image, according to the points we chose.
