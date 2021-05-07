@@ -7,17 +7,21 @@ So, firstly we will load the image and the program will ask us to "click" on the
 <img src="Images/Scanning1.png">
 
 Then, we have to click on the points on the image, which we want to choose as the extreme ends of the area of projection for the scanned image.
+
 <img src="Images/Scanning2.png">
 
 Finally, the third section of the code takes the recorded coordinates from the previous section of the code, and then outputs our final scanned image(through the function - project_transform() ).
 
 The image below points to the region we have our interest in e.i. we want to scan.
+
 <img src="Images/Area_of _interest.JPG">
 
 And this image corresponds to the final rectangle that we want our image to fit into.
+
 <img src="Images/Area_of_projection.JPG">
 
 And finally, this is our scanned image, according to the points we chose, along with the original image beside it.
+
 <p float="left">
    <img src="Images/sheet1.jpg" width="400" />
   <img src="Images/Final_scanned_image.JPG" width="400" /> 
